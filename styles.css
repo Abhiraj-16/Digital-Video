@@ -174,3 +174,9 @@ body{
 .search-input{
     width: 100%;
 }
+
+.video-container:hover{
+    transform: scale(1.1);
+    background: #fff9fb;
+    box-shadow:  1px 1px 1px #000;
+}
